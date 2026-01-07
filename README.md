@@ -6,6 +6,7 @@
 - 😄 Pronomes: ela/dela
 
 <div align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180px"
        src="https://github-readme-stats-beryl-ten-89.vercel.app/api?username=larissaribeiro-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
