@@ -13,5 +13,4 @@
        src="https://github-readme-stats-beryl-ten-89.vercel.app/api/top-langs/?username=larissaribeiro-dev&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-## 🐍 Jogo da Cobrinha
 ![Snake animation](https://raw.githubusercontent.com/larissaribeiro-dev/larissaribeiro-dev/output/github-contribution-grid-snake.svg)
