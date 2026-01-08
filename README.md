@@ -14,7 +14,7 @@
        src="https://github-readme-stats-beryl-ten-89.vercel.app/api/top-langs/?username=larissaribeiro-dev&layout=compact&langs_count=16&theme=tokyonight&locale=pt-br"/>
 </div>
 
-<h2>Tecnologias que utilizo no meu dia a dia</h2>
+<h2>Tecnologias que utilizo no meu dia</h2>
 
 <div align="left">
   <img src="assets/icons/github.svg" width="45" height="45" />&nbsp;&nbsp
