@@ -19,6 +19,9 @@
 <div>
   <img src="assets/icons/github.svg" width="50" height="50" />
   <img src="assets/icons/c.svg" width="50" height="50" />
+  <img src="assets/icons/csharp.svg" width="50" height="50" />
+  <img src="assets/icons/python.svg" width="50" height="50" />
+  <img src="assets/icons/js.svg" width="50" height="50" />
 </div>
 
 ##
