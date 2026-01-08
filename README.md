@@ -14,15 +14,6 @@
        src="https://github-readme-stats-beryl-ten-89.vercel.app/api/top-langs/?username=larissaribeiro-dev&layout=compact&langs_count=16&theme=tokyonight&locale=pt-br"/>
 </div>
 
-<h2>Tecnologias que utilizo no meu dia</h2>
-
-<div align="left">
-  <img src="assets/icons/python.svg" width="26" height="28" /> &nbsp;
-  <img src="assets/icons/c.svg" width="28" height="28" />&nbsp;&nbsp;
-  <img src="assets/icons/csharp.svg" width="28" height="28" />&nbsp;
-  <img src="assets/icons/js.svg" width="33" height="33" />
-</div>
-
 ##
 
 ![Snake animation](https://raw.githubusercontent.com/larissaribeiro-dev/larissaribeiro-dev/output/github-contribution-grid-snake-dark.svg)
